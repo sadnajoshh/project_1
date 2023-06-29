@@ -1,2 +1,2 @@
-# project_1
+# gravitational waves
 Gravitational waves
